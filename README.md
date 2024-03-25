@@ -18,6 +18,7 @@ Now that you are here, do checkout some of my projects-
 
 - [STRATEPY](https://github.com/SidZRed/stratepy) : It is a custom built python package which consists of libraries used for game theory simulations.
 - [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
+- [HinglishEval](https://github.com/mrigankpawagi/HinglishEval) : A LLM based research project that tracks the behaviour of language models under different conditions.
   #### Hopefully more come up :)
 
 
