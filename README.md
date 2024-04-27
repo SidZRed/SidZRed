@@ -38,7 +38,3 @@ Anyway, since you want to:
 - +91 7975553922
 - @Siddharth #1674
 
-
-### Now that you have spent so much of your time, here's a surprise for you:
-
-[SURPRISE](https://youtu.be/dQw4w9WgXcQ?si=IVDUQ6FDJp5Iqy8B)
