@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Bold&weight=100&size=30&pause=1000&color=2DF722&random=false&width=435&lines=Hey%2C+I+am+Siddharth)](https://git.io/typing-svg)
 
 
-### The lovely lad you are stalking:
+### About Me:
 Hola, this is Siddharth Reddy.
 
 I am a bachelors student at The Indian Institute of Science, Bangalore.
@@ -10,7 +10,6 @@ Love fast things where ever they are. Big fan of motorsport and cricket!
 
 Trying to live in this world by creating my own timeline.
 
- 
 *"I am a rocketman on my way to Mars"*
 
 ### Glad you are here!
@@ -18,13 +17,12 @@ Now that you are here, do checkout some of my projects-
 
 - [STRATEPY](https://github.com/SidZRed/stratepy) : It is a custom built python package which consists of libraries used for game theory simulations.
 - [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
-- [HinglishEval](https://github.com/mrigankpawagi/HinglishEval) : A LLM based research project that tracks the behaviour of language models under different conditions.
+- [HinglishEval](https://github.com/SidZRed/HinglishEval) : A LLM based research project that tracks the behaviour of language models under different conditions.
+- [STREAM](https://github.com.SidZRed/STREAM) : A simulation tool based on Braess's paradox to check the efficiency of resource allocation in a network. [Report](https://github.com/SidZRed/STREAM/blob/main/Braess_Paradox.pdf) on the following analysis.
+
   #### Hopefully more come up :)
 
 
-### The number of people who have stalked me 😂:
-
-![Visitor Count](https://profile-counter.glitch.me/{SidZRed}/count.svg)
 
 ### Want to reach me?
 As a great [man](https://en.wikipedia.org/wiki/Freddie_Mercury) once said, 
@@ -35,6 +33,8 @@ As a great [man](https://en.wikipedia.org/wiki/Freddie_Mercury) once said,
 
 Anyway, since you want to:
 - siddharthrr@iisc.ac.in
-- +91 7975553922
-- @Siddharth #1674
+- @Siddharth #1674 - Discord
 
+### Visitor count:
+
+![Visitor Count](https://profile-counter.glitch.me/{SidZRed}/count.svg)
