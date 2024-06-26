@@ -16,9 +16,9 @@ Trying to live in this world by creating my own timeline.
 Now that you are here, do checkout some of my projects-
 
 - [STRATEPY](https://github.com/SidZRed/stratepy) : It is a custom built python package which consists of libraries used for game theory simulations.
-- [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
 - [HinglishEval](https://github.com/SidZRed/HinglishEval) : A LLM based research project that tracks the behaviour of language models under different conditions.
 - [STREAM](https://github.com/SidZRed/STREAM) : A simulation tool based on Braess's paradox to check the efficiency of resource allocation in a network. [Report](https://github.com/SidZRed/STREAM/blob/main/Braess_Paradox.pdf) on the following analysis.
+- [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
 
   #### Hopefully more come up :)
 
