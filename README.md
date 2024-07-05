@@ -42,3 +42,5 @@ Anyway, since you want to:
 ### Visitor count:
 
 ![Visitor Count](https://profile-counter.glitch.me/{SidZRed}/count.svg)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed&fontColor=white&bgColor=black)
