@@ -20,6 +20,7 @@ Now that you are here, do checkout some of my projects-
 - [STREAM](https://github.com/SidZRed/STREAM) : A simulation tool based on Braess's paradox to check the efficiency of resource allocation in a network. [Report](https://github.com/SidZRed/STREAM/blob/main/Braess_Paradox.pdf) on the following analysis.
 - [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
 
+
   #### Hopefully more come up :)
 
 
@@ -36,11 +37,24 @@ Anyway, since you want to:
 - @Siddharth #1674 - Discord
 
 
+## Stats :
+
 [![SidZRed's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SidZRed&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SidZRed/github-readme-stats#gh-dark-mode-only)
 [![SidZRed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SidZRed&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SidZRed/github-readme-stats#gh-light-mode-only)
 
-### Visitor count:
+  ### My languages :
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidZRed&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+### Streaks :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SidZRed&theme=dark)](https://git.io/streak-stats)
+
+
+### Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/{SidZRed}/count.svg)
 
+## 
+<p align="center">
+  
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=zues&font=Redressed&fontColor=white&bgColor=black)
+
+</p>
