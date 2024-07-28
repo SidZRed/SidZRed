@@ -46,7 +46,7 @@ Anyway, since you want to:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidZRed&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streaks :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SidZRed&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SidZRed&theme=dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D&card_width=497&card_height=200&background=61%2C0067EB%2C0000FF)](https://git.io/streak-stats)
 
 
 ### Visitor count:
