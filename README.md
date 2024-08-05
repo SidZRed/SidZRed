@@ -2,7 +2,7 @@
 
 
 ### About Me:
-Hola, this is Siddharth Reddy.
+Hola, this is Siddharth Reddy!
 
 I am a bachelors student at The Indian Institute of Science, Bangalore.
 
