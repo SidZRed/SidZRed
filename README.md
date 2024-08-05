@@ -6,7 +6,7 @@ Hola, this is Siddharth Reddy!
 
 I am a bachelors student at The Indian Institute of Science, Bangalore.
 
-Love fast things where ever they are. Big fan of motorsport and cricket!
+Love fast things wherever they are. Big fan of motorsport and cricket!
 
 Trying to live in this world by creating my own timeline.
 
