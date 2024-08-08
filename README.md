@@ -18,6 +18,7 @@ Now that you are here, do checkout some of my projects-
 - [STRATEPY](https://github.com/SidZRed/stratepy) : It is a custom built python package which consists of libraries used for game theory simulations.
 - [fequip](https://github.com/SidZRed/fequip) : It is a command line tool used for quick and easy equipping of files.
 - [STREAM](https://github.com/SidZRed/STREAM) : A simulation tool based on Braess's paradox to check the efficiency of resource allocation in a network. [Report](https://github.com/SidZRed/STREAM/blob/main/Braess_Paradox.pdf) on the following analysis.
+- [TEchX](https://github.com/SidZRed/TEchX) : A typesetting system for quick and easy technical documentation of your files and projects.
 - [SIDBOT](https://github.com/SidZRed/SidBoT) : A fun bot I have built that acts like a very intelligent baby ;)
 
 Do checkout some of the pinned repositories as well!
