@@ -38,10 +38,6 @@ Anyway, since you want to:
 - siddharthrr@iisc.ac.in
 - @Siddharth #1674 - Discord
 
-### Stats
-![SidZRed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SidZRed&theme=vue-dark&hide_border=true)
-![SidZRed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidZRed&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 
 ### Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/{SidZRed}/count.svg)
